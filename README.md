@@ -12,3 +12,4 @@
 - [Ödev 9 - Taksimetre Programı](odev-9-taksimetre)
 - [Ödev 10 - Daire Hesaplama Programı](odev-10-daire-hesaplama)
 - [Ödev 11 - Vücut Kitle İndeksi Hesaplama](odev-11-vucut-kitle-indeksi)
+- [Ödev 12 - Manav Kasa Programı](odev-12-manav-kasa)
