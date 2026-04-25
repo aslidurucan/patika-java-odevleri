@@ -8,3 +8,4 @@
 - [Ödev 5 - Asansör Simülasyon Sistemi](odev-5-elevator-system)
 - [Ödev 6 - Not Ortalaması Hesaplayan Program](odev-6-not-ortalamasi)
 - [Ödev 7 - KDV Tutarı Hesaplayan Program](odev-7-kdv-hesaplama)
+- - [Ödev 8 - Üçgen Hesaplama Programı](odev-8-ucgen-hesaplama)
