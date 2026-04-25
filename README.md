@@ -14,3 +14,4 @@
 - [Ödev 11 - Vücut Kitle İndeksi Hesaplama](odev-11-vucut-kitle-indeksi)
 - [Ödev 12 - Manav Kasa Programı](odev-12-manav-kasa)
 - [Ödev 13 - Basit Hesap Makinesi](odev-13-hesap-makinesi)
+- [Ödev 14 - Şifre Sıfırlama Programı](odev-14-sifre-sifirlama)
