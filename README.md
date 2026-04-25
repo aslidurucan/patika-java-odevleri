@@ -13,3 +13,4 @@
 - [Ödev 10 - Daire Hesaplama Programı](odev-10-daire-hesaplama)
 - [Ödev 11 - Vücut Kitle İndeksi Hesaplama](odev-11-vucut-kitle-indeksi)
 - [Ödev 12 - Manav Kasa Programı](odev-12-manav-kasa)
+- [Ödev 13 - Basit Hesap Makinesi](odev-13-hesap-makinesi)
