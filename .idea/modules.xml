@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/odev-6-not-ortalamasi/odev-6-not-ortalamasi.iml" filepath="$PROJECT_DIR$/odev-6-not-ortalamasi/odev-6-not-ortalamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/odev-7-kdv-hesaplama/odev-7-kdv-hesaplama.iml" filepath="$PROJECT_DIR$/odev-7-kdv-hesaplama/odev-7-kdv-hesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/odev-8-ucgen-hesaplama/odev-8-ucgen-hesaplama.iml" filepath="$PROJECT_DIR$/odev-8-ucgen-hesaplama/odev-8-ucgen-hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odev-9-taksimetre/odev-9-taksimetre.iml" filepath="$PROJECT_DIR$/odev-9-taksimetre/odev-9-taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patika-java-odevleri.iml" filepath="$PROJECT_DIR$/.idea/patika-java-odevleri.iml" />
     </modules>
   </component>
