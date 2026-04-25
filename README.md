@@ -15,3 +15,4 @@
 - [Ödev 12 - Manav Kasa Programı](odev-12-manav-kasa)
 - [Ödev 13 - Basit Hesap Makinesi](odev-13-hesap-makinesi)
 - [Ödev 14 - Şifre Sıfırlama Programı](odev-14-sifre-sifirlama)
+- [Ödev 15 - Not Ortalaması Hesaplayan Program V2](odev-15-not-ortalamasi-v2)
